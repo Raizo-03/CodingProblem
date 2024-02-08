@@ -1,3 +1,3 @@
-# CodingProblem
-## A repository for coding problems I solved
+# CodingProblem 💻
+## A repository for coding problems I solved  🐛
 
