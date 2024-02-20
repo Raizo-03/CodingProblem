@@ -23,7 +23,6 @@ public class PyramidStar {
 			System.out.println();
 
 		}
-		
 		System.out.println();
 
 		for(int i = 0; i < row; i++) {
