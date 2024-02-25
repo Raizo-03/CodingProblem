@@ -16,15 +16,14 @@ public class InfinityPattern {
 			}
 			for(int k = row-1; k >= i; k--) {
 				System.out.print("  ");
-			}
+			}	
 			for(int k = row -1; k >= i; k--) {
 				System.out.print("  ");
-			}
+			}	
 			for(int l = 0; l <= i; l++) {
 				System.out.print("* ");
 			}
-			System.out.println();
-			
+			System.out.println();		
 			
 		}
 		for(int i = 0; i < row; i++) {
